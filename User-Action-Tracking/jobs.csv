@@ -1,0 +1,501 @@
+job_id,title,skills,location,salary_range
+1,Software Engineer,"Machine Learning, Python, Java, C++, SQL",San Francisco,67k-109k
+2,Analyst,"SQL, Java, Data Analysis",Toronto,88k-183k
+3,Analyst,"Web Development, Java, C++, Cloud Computing, Machine Learning",Toronto,72k-113k
+4,Software Engineer,"C++, Data Analysis, Machine Learning, Python, Excel",New York,95k-173k
+5,Web Developer,"SQL, Web Development, Cloud Computing",San Francisco,72k-196k
+6,Analyst,"Machine Learning, Data Analysis, Excel, Web Development",New York,52k-137k
+7,Data Scientist,"Python, Web Development, Machine Learning",Toronto,93k-155k
+8,Data Scientist,"Java, Python, Excel",Toronto,61k-163k
+9,Web Developer,"Cloud Computing, C++",San Francisco,73k-193k
+10,Data Scientist,"Machine Learning, Java, Data Analysis, Excel",San Francisco,98k-113k
+11,Web Developer,"Excel, Java, Python",Austin,85k-114k
+12,Analyst,"SQL, Python",London,77k-127k
+13,Software Engineer,"Web Development, Excel",London,86k-109k
+14,Analyst,"Data Analysis, SQL, Python, Java, Machine Learning",San Francisco,91k-156k
+15,Data Scientist,"SQL, Web Development, C++, Python",New York,62k-152k
+16,Web Developer,"Excel, Java",Toronto,61k-119k
+17,Software Engineer,"Python, Machine Learning",London,52k-129k
+18,Software Engineer,"SQL, Java, C++, Python",Toronto,58k-123k
+19,Data Scientist,"Python, Excel, SQL",San Francisco,61k-179k
+20,Analyst,"SQL, Web Development, Machine Learning",New York,66k-125k
+21,Data Scientist,"C++, Data Analysis, Machine Learning, SQL",London,88k-154k
+22,Web Developer,"Data Analysis, Java",San Francisco,77k-155k
+23,Data Scientist,"Python, Machine Learning, Excel, C++, Java",San Francisco,69k-120k
+24,Data Scientist,"Web Development, Java, C++, SQL, Data Analysis",New York,74k-133k
+25,Data Scientist,"Java, Web Development, Excel, Cloud Computing",San Francisco,60k-181k
+26,Data Scientist,"Data Analysis, C++, Cloud Computing, Excel, Java",Toronto,77k-177k
+27,Software Engineer,"Data Analysis, Python, Excel",Austin,57k-137k
+28,Analyst,"Java, Excel, Machine Learning, Data Analysis, C++",New York,82k-180k
+29,Analyst,"Java, SQL",Toronto,79k-145k
+30,Analyst,"Data Analysis, SQL",New York,81k-157k
+31,Data Scientist,"Machine Learning, Java, Excel",Toronto,75k-115k
+32,Data Scientist,"Python, Excel",San Francisco,81k-101k
+33,Web Developer,"Java, Excel, Cloud Computing",Austin,62k-154k
+34,Web Developer,"Web Development, Excel, Java",Austin,80k-195k
+35,Web Developer,"Machine Learning, Web Development, Python",Austin,97k-200k
+36,Software Engineer,"Excel, C++",Toronto,77k-194k
+37,Data Scientist,"Web Development, Data Analysis, Machine Learning, Cloud Computing, Python",London,65k-115k
+38,Data Scientist,"SQL, Java, C++, Excel",Austin,64k-192k
+39,Software Engineer,"Machine Learning, Python, Data Analysis, Web Development, Excel",San Francisco,95k-172k
+40,Software Engineer,"Excel, Data Analysis",Austin,88k-152k
+41,Web Developer,"SQL, Java, Cloud Computing, Excel",London,93k-167k
+42,Software Engineer,"Excel, C++, Web Development",Toronto,82k-192k
+43,Software Engineer,"Machine Learning, Web Development, SQL, Data Analysis, Python",London,62k-169k
+44,Web Developer,"Excel, C++, Data Analysis",San Francisco,98k-114k
+45,Analyst,"Web Development, SQL, Java, C++",New York,73k-156k
+46,Data Scientist,"Web Development, Excel",Austin,100k-197k
+47,Software Engineer,"Java, Excel",London,90k-120k
+48,Software Engineer,"Cloud Computing, Data Analysis, Excel, Java",New York,50k-158k
+49,Analyst,"Java, SQL, Excel",Austin,88k-187k
+50,Analyst,"Web Development, Cloud Computing, C++",New York,57k-175k
+51,Software Engineer,"Web Development, C++, SQL, Python",Austin,75k-130k
+52,Data Scientist,"Python, Machine Learning",Austin,83k-197k
+53,Analyst,"Java, C++, Data Analysis, Machine Learning, Excel",Toronto,82k-102k
+54,Analyst,"C++, Cloud Computing, Python, SQL, Data Analysis",San Francisco,92k-168k
+55,Software Engineer,"Excel, Java",Austin,56k-104k
+56,Data Scientist,"Web Development, Machine Learning",New York,72k-182k
+57,Web Developer,"Excel, SQL, Machine Learning",San Francisco,88k-191k
+58,Data Scientist,"C++, Data Analysis",Toronto,57k-183k
+59,Software Engineer,"Machine Learning, C++, Data Analysis",New York,98k-140k
+60,Data Scientist,"Python, Web Development, Excel",San Francisco,97k-188k
+61,Software Engineer,"Web Development, Machine Learning, Data Analysis, Excel, Python",London,50k-199k
+62,Analyst,"Web Development, Machine Learning, C++",Austin,75k-132k
+63,Analyst,"Excel, Cloud Computing",London,92k-199k
+64,Analyst,"C++, Python, Java, Excel, SQL",London,86k-113k
+65,Software Engineer,"Data Analysis, Cloud Computing, C++, Java, Python",Austin,71k-103k
+66,Analyst,"SQL, Excel, C++, Machine Learning",New York,68k-103k
+67,Analyst,"Data Analysis, C++, Excel",Toronto,65k-173k
+68,Web Developer,"Python, Machine Learning, Java, Data Analysis, Web Development",Austin,65k-139k
+69,Data Scientist,"C++, Data Analysis, Web Development, Java, Excel",Austin,68k-105k
+70,Analyst,"SQL, Cloud Computing, Machine Learning, Java, Python",Austin,64k-128k
+71,Software Engineer,"Python, Machine Learning, Java, Excel",Austin,67k-114k
+72,Software Engineer,"Cloud Computing, C++, Java",New York,90k-158k
+73,Software Engineer,"Web Development, SQL, Cloud Computing",Toronto,59k-166k
+74,Data Scientist,"Python, Data Analysis, Excel",San Francisco,95k-153k
+75,Analyst,"Machine Learning, Web Development, Data Analysis, SQL, Cloud Computing",Austin,89k-193k
+76,Software Engineer,"Cloud Computing, Data Analysis, Python, Web Development",London,81k-118k
+77,Analyst,"Machine Learning, C++, Web Development, Java, Python",San Francisco,68k-169k
+78,Data Scientist,"Excel, Web Development, Java, SQL",London,71k-106k
+79,Web Developer,"C++, Web Development, SQL, Excel, Machine Learning",San Francisco,81k-153k
+80,Software Engineer,"Machine Learning, SQL",New York,55k-197k
+81,Web Developer,"Web Development, Machine Learning",Toronto,70k-166k
+82,Analyst,"Excel, Python, Data Analysis, Web Development, Machine Learning",Austin,95k-195k
+83,Data Scientist,"Machine Learning, Data Analysis, C++, SQL, Cloud Computing",New York,97k-189k
+84,Analyst,"Web Development, C++, SQL",San Francisco,72k-130k
+85,Web Developer,"Python, SQL, Machine Learning, Web Development",Austin,79k-170k
+86,Analyst,"Cloud Computing, Web Development, Excel",London,85k-138k
+87,Web Developer,"Excel, Cloud Computing",New York,59k-174k
+88,Data Scientist,"Python, Cloud Computing, Excel",Austin,56k-198k
+89,Web Developer,"C++, SQL",Toronto,90k-161k
+90,Data Scientist,"Data Analysis, Excel, Python, Machine Learning",San Francisco,87k-151k
+91,Software Engineer,"Java, Machine Learning, Cloud Computing, Excel",Austin,86k-127k
+92,Software Engineer,"Machine Learning, Python",London,85k-147k
+93,Data Scientist,"C++, Web Development, Data Analysis, Machine Learning, Java",Austin,90k-193k
+94,Analyst,"Python, Machine Learning",Austin,100k-154k
+95,Web Developer,"Machine Learning, SQL, Excel, Data Analysis, C++",London,53k-116k
+96,Data Scientist,"SQL, Web Development",San Francisco,65k-140k
+97,Data Scientist,"SQL, Machine Learning, Web Development",San Francisco,91k-164k
+98,Analyst,"Web Development, Cloud Computing, Data Analysis, Excel, Machine Learning",London,60k-172k
+99,Web Developer,"C++, Data Analysis, Python",New York,63k-130k
+100,Analyst,"Java, Excel, Machine Learning, Cloud Computing, Data Analysis",Austin,100k-133k
+101,Software Engineer,"C++, Cloud Computing",San Francisco,95k-178k
+102,Analyst,"Java, Python",Toronto,51k-100k
+103,Web Developer,"C++, Data Analysis, SQL",New York,65k-128k
+104,Data Scientist,"Cloud Computing, SQL, Excel, Machine Learning, Java",Austin,80k-108k
+105,Data Scientist,"Machine Learning, Excel, C++, Cloud Computing",Toronto,59k-121k
+106,Software Engineer,"Cloud Computing, C++, Data Analysis, Machine Learning, Excel",Toronto,86k-196k
+107,Data Scientist,"Cloud Computing, Java, Machine Learning",Austin,91k-189k
+108,Data Scientist,"Java, Machine Learning, Excel, Web Development",London,62k-106k
+109,Software Engineer,"Web Development, Java, Python",London,94k-144k
+110,Software Engineer,"Machine Learning, Java, Web Development",San Francisco,85k-176k
+111,Data Scientist,"Data Analysis, Java, Python",New York,100k-120k
+112,Web Developer,"Data Analysis, C++, Python, Machine Learning",London,73k-113k
+113,Analyst,"Java, Machine Learning, Excel, SQL, Cloud Computing",San Francisco,58k-108k
+114,Web Developer,"Python, Cloud Computing, Data Analysis, Web Development, SQL",Toronto,53k-167k
+115,Data Scientist,"Machine Learning, Excel, SQL, Cloud Computing",San Francisco,58k-153k
+116,Software Engineer,"Cloud Computing, Python",Austin,99k-160k
+117,Software Engineer,"C++, Data Analysis, Cloud Computing, SQL, Machine Learning",Austin,93k-103k
+118,Analyst,"C++, Machine Learning, Java",London,94k-200k
+119,Data Scientist,"Web Development, C++, SQL, Java, Excel",Austin,84k-137k
+120,Web Developer,"Excel, C++, Java, Cloud Computing, Machine Learning",New York,86k-106k
+121,Web Developer,"C++, Web Development, Data Analysis, Cloud Computing",San Francisco,53k-166k
+122,Analyst,"SQL, Java, Excel",Austin,98k-132k
+123,Data Scientist,"Python, Cloud Computing, Data Analysis, Machine Learning, Java",Toronto,56k-183k
+124,Analyst,"Data Analysis, Python, Java, Cloud Computing",Toronto,57k-144k
+125,Data Scientist,"C++, Java",Austin,51k-108k
+126,Data Scientist,"Python, C++, Java",San Francisco,79k-187k
+127,Web Developer,"SQL, Excel, C++, Cloud Computing, Java",San Francisco,98k-141k
+128,Data Scientist,"Machine Learning, Data Analysis, Java, SQL",Toronto,72k-129k
+129,Data Scientist,"Web Development, SQL, Excel",San Francisco,94k-116k
+130,Data Scientist,"Data Analysis, Excel, Machine Learning, SQL, Python",London,50k-196k
+131,Web Developer,"Excel, Data Analysis, Machine Learning, SQL, Cloud Computing",San Francisco,98k-170k
+132,Data Scientist,"C++, Cloud Computing, Python, SQL, Java",London,88k-198k
+133,Web Developer,"SQL, C++, Machine Learning, Cloud Computing",New York,58k-197k
+134,Web Developer,"Java, Cloud Computing, Web Development, Machine Learning, Excel",Toronto,91k-160k
+135,Web Developer,"SQL, Cloud Computing, Web Development",Toronto,85k-174k
+136,Web Developer,"SQL, Web Development, Python",New York,51k-149k
+137,Data Scientist,"Web Development, Machine Learning, Excel, Data Analysis",Toronto,67k-125k
+138,Data Scientist,"Java, Cloud Computing",San Francisco,91k-136k
+139,Data Scientist,"Machine Learning, SQL, Excel, Java",New York,86k-140k
+140,Analyst,"Python, Machine Learning",Toronto,84k-122k
+141,Web Developer,"C++, Web Development",Austin,68k-119k
+142,Data Scientist,"Web Development, Data Analysis, Python",New York,58k-147k
+143,Web Developer,"Data Analysis, Cloud Computing",Austin,72k-135k
+144,Analyst,"Python, Cloud Computing",New York,50k-110k
+145,Web Developer,"C++, Data Analysis, Python",London,80k-147k
+146,Software Engineer,"Web Development, Machine Learning",London,88k-188k
+147,Analyst,"Cloud Computing, Data Analysis",New York,98k-197k
+148,Web Developer,"SQL, Java, C++, Excel, Data Analysis",New York,76k-139k
+149,Data Scientist,"Web Development, Java, Data Analysis, Python, Excel",Austin,97k-111k
+150,Software Engineer,"Cloud Computing, SQL",London,89k-135k
+151,Analyst,"Java, Python, SQL, Cloud Computing",Austin,63k-118k
+152,Software Engineer,"Web Development, C++",London,70k-115k
+153,Data Scientist,"Cloud Computing, Machine Learning, SQL, Excel, Java",Austin,55k-147k
+154,Web Developer,"C++, Web Development",New York,86k-120k
+155,Software Engineer,"Machine Learning, Cloud Computing, C++",Austin,52k-121k
+156,Web Developer,"SQL, Java",San Francisco,87k-100k
+157,Analyst,"Machine Learning, C++, Python, Web Development, Java",Toronto,78k-132k
+158,Analyst,"Java, Web Development, C++, SQL",San Francisco,100k-162k
+159,Web Developer,"Python, Machine Learning, C++, Cloud Computing, Data Analysis",New York,97k-123k
+160,Data Scientist,"SQL, Python",London,60k-152k
+161,Analyst,"Python, Cloud Computing, Java, Web Development",New York,60k-104k
+162,Web Developer,"C++, Excel, Cloud Computing, Web Development",San Francisco,54k-138k
+163,Data Scientist,"C++, Python, Excel, SQL",New York,88k-112k
+164,Web Developer,"Java, Python, Cloud Computing, SQL, C++",New York,56k-157k
+165,Software Engineer,"Machine Learning, C++, Java, SQL, Web Development",San Francisco,55k-115k
+166,Analyst,"Data Analysis, Web Development, Java, Python",Toronto,93k-173k
+167,Analyst,"Java, Python, Data Analysis, Cloud Computing, SQL",New York,58k-116k
+168,Analyst,"Data Analysis, Web Development, Python",New York,90k-136k
+169,Analyst,"Cloud Computing, Web Development, SQL, C++, Python",New York,84k-174k
+170,Software Engineer,"Web Development, Machine Learning, C++, Cloud Computing",Toronto,100k-113k
+171,Data Scientist,"Web Development, Excel, Data Analysis, C++",San Francisco,87k-141k
+172,Data Scientist,"Data Analysis, Java, Cloud Computing",San Francisco,95k-120k
+173,Web Developer,"Web Development, C++",Toronto,86k-172k
+174,Data Scientist,"Machine Learning, Data Analysis",New York,80k-135k
+175,Data Scientist,"Excel, Java, C++, Machine Learning",Toronto,64k-170k
+176,Web Developer,"C++, SQL, Cloud Computing, Machine Learning, Data Analysis",Austin,54k-166k
+177,Web Developer,"Java, Python, Excel",San Francisco,94k-151k
+178,Analyst,"C++, Python, Data Analysis",London,86k-106k
+179,Web Developer,"Python, Excel, Cloud Computing, Data Analysis, Web Development",Toronto,61k-110k
+180,Analyst,"Python, SQL, Data Analysis, Java",Austin,93k-177k
+181,Software Engineer,"Web Development, SQL, Python, C++",San Francisco,97k-182k
+182,Data Scientist,"SQL, Data Analysis, C++",San Francisco,71k-170k
+183,Software Engineer,"Data Analysis, Machine Learning, Java",San Francisco,57k-171k
+184,Analyst,"Cloud Computing, Excel, Python, Web Development",London,95k-194k
+185,Data Scientist,"Excel, Machine Learning",Toronto,93k-179k
+186,Analyst,"Java, Python",New York,53k-199k
+187,Software Engineer,"Cloud Computing, Java, Python, Web Development",New York,94k-182k
+188,Software Engineer,"Excel, C++, SQL, Cloud Computing",London,75k-147k
+189,Data Scientist,"Cloud Computing, Data Analysis, C++, Java",Toronto,95k-178k
+190,Software Engineer,"Web Development, Java, Cloud Computing",New York,84k-167k
+191,Analyst,"C++, Python",New York,62k-168k
+192,Web Developer,"Web Development, Excel, Python, C++",New York,78k-149k
+193,Software Engineer,"C++, Java, Data Analysis, Cloud Computing, SQL",San Francisco,67k-152k
+194,Software Engineer,"Cloud Computing, Machine Learning",San Francisco,53k-162k
+195,Software Engineer,"Web Development, C++, Excel",New York,70k-152k
+196,Software Engineer,"Java, C++, Web Development, SQL, Excel",London,95k-100k
+197,Software Engineer,"Machine Learning, Data Analysis, Excel, SQL",Austin,88k-170k
+198,Web Developer,"C++, Java",San Francisco,72k-164k
+199,Software Engineer,"Data Analysis, Excel, SQL, Python",Austin,50k-166k
+200,Analyst,"Machine Learning, Java",New York,79k-170k
+201,Analyst,"Python, SQL, Excel",New York,90k-195k
+202,Data Scientist,"Java, Excel, Web Development, C++",London,66k-151k
+203,Software Engineer,"SQL, Python, Excel, Data Analysis, Web Development",Toronto,67k-161k
+204,Web Developer,"Excel, Machine Learning, Data Analysis, Java",Austin,80k-170k
+205,Software Engineer,"Excel, Web Development, C++, Machine Learning, Data Analysis",Austin,61k-130k
+206,Software Engineer,"Machine Learning, SQL, Python, Cloud Computing",San Francisco,80k-198k
+207,Web Developer,"Java, SQL, Excel, Data Analysis, Cloud Computing",Toronto,92k-151k
+208,Software Engineer,"Data Analysis, SQL",London,57k-109k
+209,Software Engineer,"Cloud Computing, C++, Data Analysis, Java",London,100k-141k
+210,Data Scientist,"C++, Data Analysis, Machine Learning, Web Development",Toronto,72k-170k
+211,Software Engineer,"SQL, Web Development, Cloud Computing",New York,89k-125k
+212,Software Engineer,"Machine Learning, Web Development, Cloud Computing, Python",Austin,99k-156k
+213,Web Developer,"C++, Python",New York,59k-108k
+214,Analyst,"SQL, Excel, Python, Data Analysis",Austin,97k-192k
+215,Web Developer,"Cloud Computing, Python, C++",Austin,81k-134k
+216,Data Scientist,"Excel, Web Development",New York,72k-146k
+217,Software Engineer,"Web Development, Data Analysis, Machine Learning, SQL, Cloud Computing",San Francisco,53k-112k
+218,Analyst,"SQL, Cloud Computing, Excel",Austin,88k-109k
+219,Software Engineer,"C++, SQL, Python",Austin,70k-185k
+220,Data Scientist,"Python, Machine Learning",San Francisco,59k-102k
+221,Analyst,"SQL, Excel, Data Analysis",San Francisco,57k-168k
+222,Software Engineer,"Python, Machine Learning, Web Development, C++",Austin,57k-118k
+223,Software Engineer,"Data Analysis, Excel, Python, C++, Machine Learning",London,81k-181k
+224,Software Engineer,"C++, Machine Learning",Toronto,96k-176k
+225,Web Developer,"Web Development, C++, Python, Excel, Machine Learning",Austin,95k-148k
+226,Software Engineer,"Excel, Cloud Computing, C++, Web Development, SQL",Toronto,69k-117k
+227,Software Engineer,"Excel, C++",San Francisco,73k-196k
+228,Data Scientist,"Cloud Computing, Java, Web Development, Machine Learning, C++",San Francisco,59k-178k
+229,Software Engineer,"Excel, Machine Learning, Python, Cloud Computing, Web Development",London,88k-132k
+230,Web Developer,"C++, SQL, Data Analysis, Java",Austin,64k-154k
+231,Web Developer,"Cloud Computing, SQL, Web Development",Toronto,93k-152k
+232,Software Engineer,"Java, Cloud Computing",Toronto,67k-153k
+233,Web Developer,"Machine Learning, Data Analysis",London,69k-158k
+234,Data Scientist,"Machine Learning, Java",Toronto,89k-186k
+235,Web Developer,"Java, Machine Learning, C++, Web Development",Toronto,71k-184k
+236,Data Scientist,"Machine Learning, Web Development, Java, Data Analysis, Python",Austin,67k-192k
+237,Data Scientist,"Machine Learning, SQL, Java, Data Analysis, Web Development",London,59k-105k
+238,Software Engineer,"Excel, Machine Learning, Web Development",San Francisco,52k-184k
+239,Software Engineer,"Machine Learning, C++, Web Development",London,93k-104k
+240,Web Developer,"Data Analysis, Web Development, Machine Learning",Toronto,81k-136k
+241,Software Engineer,"Machine Learning, SQL, Excel, Java, Cloud Computing",Austin,94k-133k
+242,Data Scientist,"Cloud Computing, Java, SQL",New York,78k-115k
+243,Data Scientist,"Cloud Computing, Machine Learning, Java, Web Development, Excel",San Francisco,80k-129k
+244,Software Engineer,"C++, Excel, Cloud Computing",San Francisco,63k-180k
+245,Analyst,"Data Analysis, Excel, Python",Toronto,92k-178k
+246,Web Developer,"Java, Web Development, Excel, Cloud Computing",New York,66k-108k
+247,Software Engineer,"Python, Java",San Francisco,87k-147k
+248,Analyst,"Excel, C++, Java, Cloud Computing",London,53k-195k
+249,Analyst,"Python, Data Analysis, Web Development, SQL, Machine Learning",London,72k-177k
+250,Data Scientist,"C++, Python, Cloud Computing, Excel, Java",New York,57k-111k
+251,Data Scientist,"SQL, Machine Learning, Cloud Computing, C++",Austin,82k-133k
+252,Analyst,"Data Analysis, Machine Learning, Excel, Python, C++",Austin,86k-160k
+253,Web Developer,"Java, Excel, Cloud Computing",San Francisco,50k-111k
+254,Data Scientist,"Cloud Computing, Java, Machine Learning, C++",London,50k-190k
+255,Data Scientist,"SQL, Web Development, C++, Cloud Computing, Python",Austin,94k-139k
+256,Web Developer,"SQL, Web Development",Toronto,70k-171k
+257,Data Scientist,"Web Development, Machine Learning, Python, Java",San Francisco,51k-200k
+258,Software Engineer,"Python, Excel, Java, Web Development, C++",Austin,79k-142k
+259,Web Developer,"Web Development, Data Analysis, C++, Cloud Computing",Toronto,63k-148k
+260,Web Developer,"Excel, C++, Python, Machine Learning, Cloud Computing",Austin,87k-113k
+261,Software Engineer,"Excel, Data Analysis, Machine Learning",Toronto,74k-131k
+262,Software Engineer,"Cloud Computing, Excel, C++, Machine Learning",London,60k-197k
+263,Web Developer,"SQL, Web Development, Cloud Computing, Excel, Python",San Francisco,93k-141k
+264,Analyst,"Java, Python, SQL",Austin,65k-181k
+265,Web Developer,"Machine Learning, Python",New York,58k-185k
+266,Web Developer,"C++, Python, Data Analysis",San Francisco,86k-129k
+267,Software Engineer,"SQL, Excel, Machine Learning, Cloud Computing",San Francisco,93k-141k
+268,Data Scientist,"Python, Machine Learning, C++",San Francisco,61k-169k
+269,Analyst,"Data Analysis, SQL",London,60k-168k
+270,Web Developer,"SQL, Python, Machine Learning, Excel, Data Analysis",Toronto,97k-118k
+271,Data Scientist,"Web Development, Python, Excel, Java",Austin,62k-107k
+272,Data Scientist,"Python, C++, Web Development",Austin,86k-169k
+273,Analyst,"SQL, Java, Excel, Data Analysis",San Francisco,62k-146k
+274,Software Engineer,"Excel, Python, Data Analysis, Web Development, Cloud Computing",Austin,89k-113k
+275,Software Engineer,"Cloud Computing, Machine Learning, Java",Toronto,83k-167k
+276,Web Developer,"SQL, Java, Excel, Web Development",Austin,94k-137k
+277,Data Scientist,"Machine Learning, Web Development, Python",Austin,87k-101k
+278,Software Engineer,"Machine Learning, Java, Cloud Computing, Excel, Python",New York,72k-169k
+279,Data Scientist,"Python, Cloud Computing, C++, SQL, Excel",Austin,71k-150k
+280,Analyst,"Machine Learning, Java",San Francisco,85k-136k
+281,Web Developer,"Web Development, SQL, Python, Machine Learning",San Francisco,98k-135k
+282,Analyst,"Cloud Computing, Machine Learning",London,86k-160k
+283,Software Engineer,"Python, Data Analysis, Web Development, Machine Learning",London,67k-120k
+284,Analyst,"Python, Java",New York,77k-146k
+285,Data Scientist,"Data Analysis, SQL, Web Development, C++, Excel",San Francisco,58k-193k
+286,Web Developer,"Web Development, Java, Python",San Francisco,85k-131k
+287,Web Developer,"C++, Machine Learning, Python, SQL",New York,58k-189k
+288,Software Engineer,"Java, Machine Learning, C++, Cloud Computing, SQL",Austin,66k-101k
+289,Software Engineer,"Web Development, Machine Learning, Cloud Computing, Python, C++",Austin,98k-137k
+290,Analyst,"C++, Java, SQL, Data Analysis, Excel",Toronto,68k-106k
+291,Software Engineer,"Machine Learning, Python, Cloud Computing",Austin,76k-120k
+292,Software Engineer,"SQL, Excel, Web Development",San Francisco,80k-168k
+293,Data Scientist,"Cloud Computing, Excel, C++",Austin,65k-162k
+294,Analyst,"C++, SQL, Python, Excel",New York,78k-174k
+295,Data Scientist,"C++, Python, Cloud Computing, Machine Learning",New York,88k-160k
+296,Web Developer,"Cloud Computing, C++, Machine Learning, Excel",London,87k-181k
+297,Analyst,"Data Analysis, Machine Learning, C++, Java, SQL",San Francisco,64k-129k
+298,Software Engineer,"Excel, Data Analysis, Java, C++",Toronto,57k-123k
+299,Software Engineer,"Cloud Computing, Machine Learning, Excel, Python, Java",Austin,54k-169k
+300,Web Developer,"SQL, Python, Data Analysis",London,87k-118k
+301,Software Engineer,"Python, Excel, Data Analysis, C++",Austin,72k-147k
+302,Data Scientist,"C++, Java, Python, Machine Learning",Austin,68k-106k
+303,Data Scientist,"Cloud Computing, Web Development",San Francisco,53k-174k
+304,Web Developer,"Cloud Computing, Machine Learning, C++, Excel",New York,97k-110k
+305,Web Developer,"Java, Cloud Computing, C++",San Francisco,62k-196k
+306,Data Scientist,"C++, Python, Web Development, SQL, Machine Learning",New York,96k-133k
+307,Analyst,"SQL, Python, Excel, Web Development",New York,66k-160k
+308,Data Scientist,"Cloud Computing, Java, SQL, Web Development, Data Analysis",London,54k-115k
+309,Software Engineer,"SQL, Python, Cloud Computing",San Francisco,52k-153k
+310,Software Engineer,"Excel, C++, Data Analysis, Java, SQL",Austin,96k-154k
+311,Software Engineer,"Machine Learning, Java, Python, SQL",London,81k-135k
+312,Software Engineer,"Cloud Computing, Web Development, Java, Python, Machine Learning",London,54k-106k
+313,Software Engineer,"Java, Python",Austin,92k-141k
+314,Web Developer,"Machine Learning, Excel, Cloud Computing",San Francisco,61k-165k
+315,Data Scientist,"Excel, Java, Cloud Computing",Austin,74k-172k
+316,Analyst,"Excel, Cloud Computing, SQL",Austin,71k-107k
+317,Data Scientist,"Cloud Computing, Excel",New York,56k-142k
+318,Analyst,"Excel, SQL, Python, Web Development, Java",New York,67k-150k
+319,Data Scientist,"SQL, Cloud Computing, C++, Java",Austin,50k-137k
+320,Software Engineer,"Web Development, Data Analysis, C++, Excel, Python",Toronto,93k-177k
+321,Analyst,"Web Development, Excel, SQL",New York,62k-183k
+322,Web Developer,"Python, C++, Java",New York,51k-112k
+323,Analyst,"Excel, SQL, Machine Learning",London,98k-107k
+324,Software Engineer,"Web Development, Python, C++",Toronto,98k-128k
+325,Software Engineer,"Excel, Python, Java, SQL",Toronto,82k-190k
+326,Analyst,"Cloud Computing, Excel",Toronto,55k-134k
+327,Data Scientist,"Python, Data Analysis, C++, Web Development",New York,51k-134k
+328,Software Engineer,"Java, Machine Learning",San Francisco,54k-200k
+329,Data Scientist,"Data Analysis, C++, SQL",San Francisco,73k-176k
+330,Analyst,"C++, Python",London,57k-184k
+331,Web Developer,"Excel, Cloud Computing",San Francisco,59k-106k
+332,Data Scientist,"Cloud Computing, Data Analysis, Machine Learning, Web Development, C++",London,75k-198k
+333,Analyst,"SQL, Java, Data Analysis",London,55k-105k
+334,Analyst,"Excel, Data Analysis",Austin,56k-120k
+335,Data Scientist,"C++, Cloud Computing, Web Development, Machine Learning",Austin,94k-180k
+336,Web Developer,"Cloud Computing, Java, Excel, Machine Learning",New York,65k-118k
+337,Analyst,"C++, Excel, SQL, Cloud Computing",New York,77k-157k
+338,Web Developer,"Java, Data Analysis, Excel, Web Development, Python",London,65k-184k
+339,Data Scientist,"Excel, Java",San Francisco,92k-147k
+340,Software Engineer,"Cloud Computing, C++, Machine Learning, SQL, Web Development",London,68k-102k
+341,Software Engineer,"Machine Learning, Cloud Computing",Toronto,70k-182k
+342,Software Engineer,"Java, Cloud Computing, Web Development",Austin,89k-177k
+343,Web Developer,"Web Development, Java",San Francisco,54k-147k
+344,Web Developer,"Excel, Machine Learning, Data Analysis, SQL, Cloud Computing",Toronto,50k-123k
+345,Data Scientist,"Cloud Computing, Python, SQL",San Francisco,99k-170k
+346,Software Engineer,"Web Development, Machine Learning",New York,83k-188k
+347,Data Scientist,"C++, Python, Web Development, Excel, Cloud Computing",New York,63k-196k
+348,Analyst,"Web Development, C++, Java, Python, Excel",New York,54k-195k
+349,Web Developer,"SQL, Cloud Computing",Austin,87k-182k
+350,Analyst,"C++, Java, Web Development, Excel, Machine Learning",London,98k-195k
+351,Software Engineer,"SQL, Cloud Computing, C++, Data Analysis",Toronto,75k-183k
+352,Analyst,"Excel, Cloud Computing",Toronto,97k-101k
+353,Web Developer,"Machine Learning, Web Development, SQL",Austin,70k-178k
+354,Analyst,"Excel, Python, Web Development",London,78k-148k
+355,Software Engineer,"Web Development, Cloud Computing",London,93k-183k
+356,Web Developer,"Python, Machine Learning, Data Analysis, C++, Web Development",Austin,95k-182k
+357,Data Scientist,"Java, Web Development, Machine Learning",London,83k-102k
+358,Web Developer,"Machine Learning, Excel, SQL, Data Analysis, Cloud Computing",New York,69k-106k
+359,Data Scientist,"C++, Machine Learning, Web Development, Data Analysis",London,82k-118k
+360,Data Scientist,"Web Development, Data Analysis, Excel",New York,52k-193k
+361,Data Scientist,"SQL, Excel, C++, Machine Learning",London,97k-124k
+362,Software Engineer,"Python, Data Analysis, Excel, SQL, Cloud Computing",London,82k-116k
+363,Analyst,"Machine Learning, Data Analysis",Austin,79k-191k
+364,Data Scientist,"Machine Learning, SQL, Excel, Data Analysis",New York,71k-189k
+365,Data Scientist,"Excel, Python",Toronto,54k-175k
+366,Data Scientist,"Web Development, Data Analysis, Excel, C++",Toronto,56k-181k
+367,Web Developer,"Excel, Python, SQL",New York,82k-158k
+368,Data Scientist,"Python, SQL",London,93k-167k
+369,Analyst,"Machine Learning, SQL, Web Development, Data Analysis, Cloud Computing",Toronto,62k-156k
+370,Web Developer,"Machine Learning, C++",Toronto,80k-105k
+371,Software Engineer,"SQL, Python, C++, Data Analysis, Excel",San Francisco,84k-134k
+372,Software Engineer,"Java, Excel",San Francisco,56k-149k
+373,Data Scientist,"C++, Excel, SQL",Austin,50k-136k
+374,Data Scientist,"Excel, C++, Web Development",Austin,90k-150k
+375,Software Engineer,"Python, Machine Learning, Data Analysis, SQL, Java",San Francisco,83k-169k
+376,Analyst,"Web Development, Cloud Computing, Machine Learning, SQL, Java",London,90k-182k
+377,Software Engineer,"Machine Learning, C++, Java",Austin,56k-185k
+378,Analyst,"Excel, Java",Toronto,83k-193k
+379,Data Scientist,"C++, Java, SQL, Cloud Computing",London,51k-182k
+380,Software Engineer,"Machine Learning, Cloud Computing, C++",San Francisco,59k-118k
+381,Data Scientist,"Web Development, Data Analysis, Machine Learning",London,77k-152k
+382,Analyst,"Web Development, Machine Learning, Cloud Computing, Excel, Data Analysis",Toronto,62k-195k
+383,Software Engineer,"Excel, Web Development, Data Analysis, C++",Austin,74k-199k
+384,Web Developer,"Web Development, Cloud Computing, Python",San Francisco,63k-136k
+385,Analyst,"Data Analysis, SQL",New York,97k-197k
+386,Data Scientist,"C++, Machine Learning",London,80k-165k
+387,Software Engineer,"Excel, Python, Machine Learning",Toronto,88k-197k
+388,Data Scientist,"Machine Learning, Java, Python, Web Development",Toronto,51k-103k
+389,Software Engineer,"Excel, C++, Java, Data Analysis, Machine Learning",San Francisco,95k-162k
+390,Web Developer,"Excel, Data Analysis, Machine Learning, Cloud Computing, C++",San Francisco,83k-135k
+391,Analyst,"SQL, Web Development, Java, Python",San Francisco,73k-107k
+392,Analyst,"Python, Cloud Computing, Web Development",San Francisco,80k-128k
+393,Web Developer,"SQL, Excel, Machine Learning, C++, Python",Toronto,76k-117k
+394,Analyst,"Python, Java",London,59k-141k
+395,Analyst,"C++, Excel",New York,57k-128k
+396,Analyst,"Excel, SQL",London,55k-129k
+397,Web Developer,"Python, Java, C++",Austin,52k-158k
+398,Software Engineer,"Cloud Computing, Data Analysis, Java, Excel, Web Development",Austin,62k-184k
+399,Data Scientist,"Python, Cloud Computing, Excel, SQL",Austin,84k-128k
+400,Data Scientist,"SQL, Java, Machine Learning, Data Analysis, Excel",London,61k-125k
+401,Software Engineer,"Web Development, Python, Cloud Computing, C++, SQL",New York,58k-117k
+402,Analyst,"SQL, Excel, Java",London,88k-163k
+403,Software Engineer,"Java, SQL, Cloud Computing",Austin,54k-161k
+404,Data Scientist,"Java, C++, Cloud Computing, Web Development, Excel",New York,81k-177k
+405,Data Scientist,"Python, SQL",New York,85k-188k
+406,Data Scientist,"Python, Java, C++, Excel",New York,62k-145k
+407,Analyst,"C++, Data Analysis",San Francisco,82k-114k
+408,Web Developer,"Excel, Data Analysis, Web Development, Machine Learning",New York,61k-121k
+409,Software Engineer,"C++, Excel, Machine Learning",Austin,54k-130k
+410,Data Scientist,"Machine Learning, Excel, Web Development",London,92k-189k
+411,Analyst,"Java, SQL, Cloud Computing, Machine Learning, Data Analysis",San Francisco,52k-168k
+412,Software Engineer,"Excel, Web Development, Machine Learning",London,95k-135k
+413,Web Developer,"SQL, Python",Austin,66k-196k
+414,Software Engineer,"SQL, Web Development",London,76k-113k
+415,Data Scientist,"Python, SQL, Excel",Toronto,94k-125k
+416,Data Scientist,"Data Analysis, Web Development, Cloud Computing",London,65k-162k
+417,Web Developer,"Python, Data Analysis, Java",New York,68k-189k
+418,Data Scientist,"Machine Learning, Data Analysis, Java, C++, SQL",San Francisco,81k-198k
+419,Software Engineer,"Web Development, Java",New York,64k-128k
+420,Software Engineer,"C++, Excel",Austin,57k-165k
+421,Software Engineer,"Cloud Computing, SQL, Excel, C++, Python",San Francisco,79k-100k
+422,Web Developer,"Web Development, Java, Excel, C++, Data Analysis",Toronto,83k-137k
+423,Analyst,"Data Analysis, Cloud Computing, Excel",Austin,85k-133k
+424,Analyst,"Data Analysis, Web Development, Python, Java",New York,60k-157k
+425,Analyst,"Web Development, Java",Toronto,75k-109k
+426,Software Engineer,"Java, SQL, Cloud Computing",New York,89k-133k
+427,Web Developer,"Data Analysis, Java, Machine Learning",Toronto,53k-130k
+428,Analyst,"Python, Web Development, SQL",London,63k-109k
+429,Software Engineer,"Excel, Java, Machine Learning",New York,75k-168k
+430,Data Scientist,"Excel, SQL, Cloud Computing, Java, Web Development",Toronto,53k-156k
+431,Software Engineer,"SQL, C++, Python, Machine Learning, Excel",San Francisco,51k-130k
+432,Web Developer,"SQL, Python, Java",London,76k-156k
+433,Analyst,"Cloud Computing, SQL, Data Analysis",Austin,63k-125k
+434,Web Developer,"Web Development, Machine Learning, Excel, SQL, Java",New York,79k-182k
+435,Data Scientist,"C++, Machine Learning, Cloud Computing, Java",Austin,63k-172k
+436,Software Engineer,"Python, Excel, Cloud Computing, Java",New York,90k-163k
+437,Data Scientist,"Cloud Computing, Java, Web Development",Austin,89k-186k
+438,Data Scientist,"Excel, Machine Learning",Austin,95k-191k
+439,Software Engineer,"Web Development, Machine Learning, Data Analysis, Python",San Francisco,96k-146k
+440,Analyst,"Cloud Computing, Machine Learning, Java, SQL",San Francisco,57k-137k
+441,Software Engineer,"Excel, SQL, Data Analysis, Python, C++",London,90k-179k
+442,Data Scientist,"Python, Data Analysis, Cloud Computing",Austin,62k-139k
+443,Software Engineer,"Python, SQL, Web Development, Cloud Computing",London,85k-173k
+444,Software Engineer,"Java, Machine Learning",New York,82k-178k
+445,Analyst,"Data Analysis, Cloud Computing, SQL",Toronto,63k-108k
+446,Data Scientist,"Data Analysis, Excel",Austin,84k-161k
+447,Data Scientist,"Python, Cloud Computing",London,53k-158k
+448,Software Engineer,"Data Analysis, Machine Learning, SQL, Cloud Computing, Web Development",Toronto,57k-104k
+449,Web Developer,"C++, Data Analysis, Excel",San Francisco,60k-132k
+450,Web Developer,"SQL, Excel, Cloud Computing",Toronto,51k-135k
+451,Analyst,"Python, C++, Web Development",Toronto,100k-190k
+452,Software Engineer,"Java, Data Analysis",Austin,68k-172k
+453,Web Developer,"Data Analysis, Web Development, Java, Excel, Python",Austin,84k-136k
+454,Software Engineer,"Java, C++, Cloud Computing",San Francisco,56k-140k
+455,Analyst,"Java, Web Development",London,92k-134k
+456,Software Engineer,"Data Analysis, C++, Excel",Toronto,86k-175k
+457,Web Developer,"SQL, C++, Data Analysis, Web Development",Toronto,99k-162k
+458,Analyst,"Web Development, Cloud Computing, Excel",Toronto,72k-197k
+459,Software Engineer,"SQL, Data Analysis, C++, Java",London,59k-121k
+460,Analyst,"Web Development, Data Analysis",Austin,63k-125k
+461,Web Developer,"Java, Web Development, Cloud Computing",London,95k-193k
+462,Data Scientist,"Machine Learning, Data Analysis, SQL, Excel, Cloud Computing",Toronto,62k-161k
+463,Software Engineer,"C++, Data Analysis, Machine Learning",London,83k-190k
+464,Data Scientist,"C++, Data Analysis, Web Development, Java, Excel",New York,100k-154k
+465,Web Developer,"Cloud Computing, Java",Austin,63k-191k
+466,Data Scientist,"SQL, C++, Excel",New York,89k-146k
+467,Software Engineer,"Cloud Computing, Java, C++",London,80k-111k
+468,Data Scientist,"Excel, SQL, Web Development",San Francisco,99k-138k
+469,Data Scientist,"SQL, Machine Learning, C++",Austin,99k-118k
+470,Analyst,"Data Analysis, Java",London,63k-123k
+471,Software Engineer,"Machine Learning, Data Analysis, Excel, Cloud Computing, SQL",Toronto,84k-144k
+472,Data Scientist,"C++, Machine Learning, Python",Austin,61k-127k
+473,Web Developer,"Java, Data Analysis",London,87k-155k
+474,Web Developer,"SQL, Data Analysis, Cloud Computing",London,69k-168k
+475,Data Scientist,"Machine Learning, Web Development, C++, Data Analysis",San Francisco,50k-160k
+476,Analyst,"Web Development, Machine Learning, Excel, Data Analysis",New York,94k-160k
+477,Web Developer,"SQL, Machine Learning, Data Analysis",New York,70k-149k
+478,Analyst,"Java, Data Analysis, Machine Learning",New York,57k-113k
+479,Analyst,"Python, Java, Cloud Computing",London,80k-116k
+480,Software Engineer,"Web Development, Excel, C++, SQL",San Francisco,79k-182k
+481,Data Scientist,"Data Analysis, Python, Cloud Computing, C++, Web Development",London,95k-187k
+482,Software Engineer,"Python, SQL, Excel, Machine Learning",Austin,84k-145k
+483,Data Scientist,"Cloud Computing, Data Analysis, Web Development",Austin,89k-125k
+484,Software Engineer,"SQL, Data Analysis, Excel",Toronto,68k-123k
+485,Analyst,"Web Development, Python, Machine Learning, Excel",London,69k-192k
+486,Data Scientist,"Web Development, C++, Cloud Computing",Toronto,92k-190k
+487,Data Scientist,"Cloud Computing, Python",Austin,100k-140k
+488,Data Scientist,"Python, SQL, Cloud Computing",San Francisco,58k-192k
+489,Web Developer,"Python, Web Development",Toronto,75k-149k
+490,Analyst,"Java, Web Development, SQL",San Francisco,95k-185k
+491,Data Scientist,"Python, C++",New York,73k-142k
+492,Analyst,"Cloud Computing, SQL, Web Development, Java, Machine Learning",Toronto,63k-138k
+493,Web Developer,"Data Analysis, C++, Python, Machine Learning",New York,63k-119k
+494,Software Engineer,"Machine Learning, C++, Excel",New York,61k-176k
+495,Software Engineer,"Machine Learning, SQL",New York,86k-150k
+496,Analyst,"Python, C++, Cloud Computing",Austin,84k-150k
+497,Web Developer,"Machine Learning, Python, SQL",Austin,84k-116k
+498,Software Engineer,"Web Development, SQL, Machine Learning, Cloud Computing",Austin,89k-131k
+499,Software Engineer,"C++, Java, Cloud Computing",San Francisco,86k-180k
+500,Software Engineer,"Web Development, Python, SQL, Java, Cloud Computing",New York,91k-101k
